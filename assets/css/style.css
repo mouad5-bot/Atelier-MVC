@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    background-color: rgb(152, 181, 181);
+}
+
+.card-global
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.card{
+    width: 45vw;
+    align-items: center;
+    
+}
+
+
